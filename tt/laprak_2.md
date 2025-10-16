@@ -252,7 +252,7 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 ![Screenshot Output Unguided 1_1](https://github.com/pamel/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_1](https://github.com/asengaseng/Struktur-Data-Saya/blob/main/Modul 2/Screenshot 2025-10-16 134940)
+![Screenshot Output Unguided 1_1](https://github.com/asengaseng/test/blob/main/tt/Screenshot%202025-10-16%20134940)
 
 ##### Output 3
 ![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-3.png)
@@ -265,4 +265,5 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 [1]
 <br>Asyiknya Belajar Struktur Data di Planet C++. (n.d.). (n.p.):
 Elex Media Komputindo.
+
 <br>
