@@ -252,7 +252,7 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 ![Screenshot Output Unguided 1_1](https://github.com/pamel/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_1](https://github.com/asengaseng/test/blob/main/tt/Screenshot%202025-10-16%20134940)
+![Screenshot Output 2](https://github.com/asengaseng/test/blob/main/tt/Screenshot%202025-10-16%20134940.png)
 
 ##### Output 3
 ![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-3.png)
@@ -267,3 +267,4 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 Elex Media Komputindo.
 
 <br>
+
